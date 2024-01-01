@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcard Study App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="flashcard-container">
+        <div class="flashcard" onclick="flipCard()">
+            <div class="front">
+                <p id="question">What color is an apple?</p>
+            </div>
+            <div class="back">
+                <p id="answer">Red</p>
+            </div>
+        </div>
+        <button id="next-button" onclick="nextCard()">Next</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
