@@ -46,8 +46,8 @@ const questions = [
 	{ question: " 	What CoPC Principle? Keep customer information confidential (e.g., data, trade secrets, strategies, security postures, personal information)	", answer: "	Confidentiality	 " },
 	{ question: " 	What CoPC Principle? Treat with utmost care	", answer: "	Confidentiality	 " },
 	{ question: " 	What CoPC Principle? Do not reveal information learned to anyone not authorized to view/hear it	", answer: "	Confidentiality	 " },
-	{ question: " 	What CoPC Principle? Demonstrate integrity in the use of materials and methods described by the AB - Related to Adherence to Materials and methods	", answer: "	Proper use of methods	 " },
-	{ question: " 	What CoPC Principle? Act in a manner consistent with the intent of the materials to preserve the integrity of the services delivered - Related to Adherence to Materials and methods	", answer: "	Proper use of methods	 " },
+	{ question: " 	What CoPC Principle? Demonstrate integrity in the use of materials and methods described by the AB	", answer: "	Proper use of methods	 " },
+	{ question: " 	What CoPC Principle? Act in a manner consistent with the intent of the materials to preserve the integrity of the services delivered	", answer: "	Proper use of methods	 " },
 	{ question: " 	What CoPC Principle? Report results completely and with integrity	", answer: "	Information integrity	 " }
 
 	
